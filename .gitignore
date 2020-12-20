@@ -1,0 +1,36 @@
+/apontamentoHoras/.*/*.swp
+/apontamentoHoras/.*/*.*~
+/apontamentoHoras/.*/project.lock.json
+/apontamentoHoras/.*/.DS_Store
+/apontamentoHoras/.*/*.pyc
+/apontamentoHoras/.*/nupkg/
+
+# Visual Studio Code
+/apontamentoHoras/.*/.vscode
+
+# Rider
+/apontamentoHoras/.*/.idea
+
+# User-specific files
+/apontamentoHoras/.*/*.suo
+/apontamentoHoras/.*/*.user
+/apontamentoHoras/.*/*.userosscache
+/apontamentoHoras/.*/*.sln.docstates
+
+# Build results
+/apontamentoHoras/.*/[Dd]ebug/
+/apontamentoHoras/.*/[Dd]ebugPublic/
+/apontamentoHoras/.*/[Rr]elease/
+/apontamentoHoras/.*/[Rr]eleases/
+/apontamentoHoras/.*/x64/
+/apontamentoHoras/.*/x86/
+/apontamentoHoras/.*/build/
+/apontamentoHoras/.*/bld/
+/apontamentoHoras/.*/[Bb]in/
+/apontamentoHoras/.*/[Oo]bj/
+/apontamentoHoras/.*/[Oo]ut/
+/apontamentoHoras/.*/msbuild.log
+/apontamentoHoras/.*/msbuild.err
+/apontamentoHoras/.*/msbuild.wrn
+
+.vs

@@ -1,0 +1,13 @@
+C:\Users\resource\source\repos\apontamentoHoras\apontamentoHoras\bin\Debug\soneca2.png
+C:\Users\resource\source\repos\apontamentoHoras\apontamentoHoras\bin\Debug\despertador1.ico
+C:\Users\resource\source\repos\apontamentoHoras\apontamentoHoras\bin\Debug\soneca1.ico
+C:\Users\resource\source\repos\apontamentoHoras\apontamentoHoras\obj\Debug\apontamentoHoras.formApontamento.resources
+C:\Users\resource\source\repos\apontamentoHoras\apontamentoHoras\obj\Debug\apontamentoHoras.Properties.Resources.resources
+C:\Users\resource\source\repos\apontamentoHoras\apontamentoHoras\obj\Debug\apontamentoHoras.csproj.GenerateResource.cache
+C:\Users\resource\source\repos\apontamentoHoras\apontamentoHoras\obj\Debug\apontamentoHoras.csproj.CoreCompileInputs.cache
+C:\Users\resource\source\repos\apontamentoHoras\apontamentoHoras\obj\Debug\apontamentoHoras.exe
+C:\Users\resource\source\repos\apontamentoHoras\apontamentoHoras\obj\Debug\apontamentoHoras.pdb
+C:\Users\resource\source\repos\apontamentoHoras\apontamentoHoras\bin\Debug\apontamentoHoras.exe.config
+C:\Users\resource\source\repos\apontamentoHoras\apontamentoHoras\bin\Debug\apontamentoHoras.exe
+C:\Users\resource\source\repos\apontamentoHoras\apontamentoHoras\bin\Debug\apontamentoHoras.pdb
+C:\Users\resource\source\repos\apontamentoHoras\apontamentoHoras\obj\Debug\apontamentoHoras.csprojAssemblyReference.cache
